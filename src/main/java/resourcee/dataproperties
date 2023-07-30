@@ -1,0 +1,92 @@
+<--Launch Browser-->
+browser= chrome
+url=http://20.74.152.254 
+
+
+<---User Login--->
+Al-email = help@coducer.com
+Al-password = Password@123
+
+Al-invepassword = Password@12
+
+Al-inv@email = helpcoducer.com
+
+Al-invmemail = help@coducer.co
+
+Al-invcomemail = help@coducer.
+
+password@ = Password@
+
+Password123 = Password123
+
+password@123 = password@123
+
+password = password
+
+Al-dotemail = help@coducercom
+
+helpemail = @coducer.com
+
+Alemail = chitra@coducer.com
+
+
+<--Forgotpassword-->
+email = help@coducer.com
+
+Email = chitra@coducer.com
+
+invemail = help@coducercom
+
+@email = helpcoducer.com
+
+comemail = help@coducer.
+
+coemail = help@coducer.m
+
+helpemail = @coducer.com
+
+
+
+<--resetpassword-->
+reseturl = http://20.74.152.254/reset_password?token=161498
+resetpassword = Chitra@123
+
+resetPassword = password@123
+
+Password1 = password@123
+
+<---members--->
+search = Chitra R
+
+Search = -
+
+invsearch = Ayesha
+
+mememail = chitra@coducer.com
+
+Mememail = Sangeeth@coducer.com
+
+newemail = tomgeorge@coducer.com
+
+Newemail = Sangeeth+1@coducer.com
+
+number = +91 9876543210
+
+location = Bangalore
+
+iqno = 7659801234
+
+bio =  A Senior Front-End Developer with 2+ years of experience, specializing in web application development, Agile, Scrum, and UX design
+
+workid = 10021
+
+num = 45385
+
+area = Bangalore
+
+<--completeinvite-->
+url = http://20.74.152.254/accept_invitation?token=584490
+
+num= +919113675186
+
+name = chitra

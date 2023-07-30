@@ -1,0 +1,157 @@
+16:44:18.984 [main] DEBUG tests.LoginTest - Page is zoomed out
+16:44:43.311 [main] INFO  tests.LoginTest - Member9 got passed
+16:56:41.021 [main] DEBUG tests.LoginTest - Browser got launched
+16:56:44.514 [main] DEBUG tests.LoginTest - Navigated to url
+16:56:45.750 [main] DEBUG tests.LoginTest - Page is zoomed out
+17:36:39.924 [main] DEBUG tests.LoginTest - Browser got launched
+17:36:44.746 [main] DEBUG tests.LoginTest - Navigated to url
+17:36:46.589 [main] DEBUG tests.LoginTest - Page is zoomed out
+18:16:33.194 [main] DEBUG tests.LoginTest - Browser got launched
+18:16:40.767 [main] DEBUG tests.LoginTest - Navigated to url
+18:16:42.169 [main] DEBUG tests.LoginTest - Page is zoomed out
+18:47:57.049 [main] DEBUG tests.LoginTest - Browser got launched
+18:48:02.874 [main] DEBUG tests.LoginTest - Navigated to url
+18:48:07.596 [main] DEBUG tests.LoginTest - Page is zoomed out
+18:56:37.322 [main] DEBUG tests.LoginTest - Browser got launched
+18:56:44.021 [main] DEBUG tests.LoginTest - Navigated to url
+18:56:46.235 [main] DEBUG tests.LoginTest - Page is zoomed out
+19:02:48.128 [main] DEBUG tests.LoginTest - Browser got launched
+19:02:52.863 [main] DEBUG tests.LoginTest - Navigated to url
+19:02:54.712 [main] DEBUG tests.LoginTest - Page is zoomed out
+19:06:16.169 [main] DEBUG tests.LoginTest - Browser got launched
+19:06:21.544 [main] DEBUG tests.LoginTest - Navigated to url
+19:06:23.606 [main] DEBUG tests.LoginTest - Page is zoomed out
+19:09:45.026 [main] DEBUG tests.LoginTest - Browser got launched
+19:09:49.630 [main] DEBUG tests.LoginTest - Navigated to url
+19:09:51.556 [main] DEBUG tests.LoginTest - Page is zoomed out
+19:13:32.190 [main] DEBUG tests.LoginTest - Browser got launched
+19:13:39.126 [main] DEBUG tests.LoginTest - Navigated to url
+19:13:41.064 [main] DEBUG tests.LoginTest - Page is zoomed out
+19:16:23.857 [main] DEBUG tests.LoginTest - Browser got launched
+19:16:27.393 [main] DEBUG tests.LoginTest - Navigated to url
+19:16:28.950 [main] DEBUG tests.LoginTest - Page is zoomed out
+19:20:39.872 [main] DEBUG tests.LoginTest - Browser got launched
+19:20:47.292 [main] DEBUG tests.LoginTest - Navigated to url
+19:20:49.170 [main] DEBUG tests.LoginTest - Page is zoomed out
+19:26:55.906 [main] DEBUG tests.LoginTest - Browser got launched
+19:26:59.443 [main] DEBUG tests.LoginTest - Navigated to url
+19:27:03.256 [main] DEBUG tests.LoginTest - Page is zoomed out
+10:22:35.013 [main] DEBUG tests.LoginTest - Browser got launched
+10:22:40.655 [main] DEBUG tests.LoginTest - Navigated to url
+10:22:42.425 [main] DEBUG tests.LoginTest - Page is zoomed out
+10:26:41.052 [main] DEBUG tests.LoginTest - Browser got launched
+10:26:46.709 [main] DEBUG tests.LoginTest - Navigated to url
+10:26:48.320 [main] DEBUG tests.LoginTest - Page is zoomed out
+10:45:24.885 [main] DEBUG tests.LoginTest - Browser got launched
+10:45:28.358 [main] DEBUG tests.LoginTest - Navigated to url
+10:45:29.525 [main] DEBUG tests.LoginTest - Page is zoomed out
+10:48:56.059 [main] DEBUG tests.LoginTest - Browser got launched
+10:48:59.080 [main] DEBUG tests.LoginTest - Navigated to url
+10:49:00.176 [main] DEBUG tests.LoginTest - Page is zoomed out
+10:51:30.007 [main] DEBUG tests.LoginTest - Browser got launched
+10:51:36.456 [main] DEBUG tests.LoginTest - Navigated to url
+10:51:38.681 [main] DEBUG tests.LoginTest - Page is zoomed out
+10:54:22.260 [main] DEBUG tests.LoginTest - Browser got launched
+10:54:25.277 [main] DEBUG tests.LoginTest - Navigated to url
+10:54:26.429 [main] DEBUG tests.LoginTest - Page is zoomed out
+10:57:38.044 [main] DEBUG tests.LoginTest - Browser got launched
+10:57:44.677 [main] DEBUG tests.LoginTest - Navigated to url
+10:57:46.851 [main] DEBUG tests.LoginTest - Page is zoomed out
+11:00:34.190 [main] DEBUG tests.LoginTest - Browser got launched
+11:00:41.675 [main] DEBUG tests.LoginTest - Navigated to url
+11:00:43.659 [main] DEBUG tests.LoginTest - Page is zoomed out
+11:02:53.699 [main] DEBUG tests.LoginTest - Browser got launched
+11:02:56.925 [main] DEBUG tests.LoginTest - Navigated to url
+11:02:58.314 [main] DEBUG tests.LoginTest - Page is zoomed out
+11:12:47.528 [main] DEBUG tests.LoginTest - Browser got launched
+11:12:51.129 [main] DEBUG tests.LoginTest - Navigated to url
+11:12:52.230 [main] DEBUG tests.LoginTest - Page is zoomed out
+11:15:14.079 [main] DEBUG tests.LoginTest - Browser got launched
+11:15:18.969 [main] DEBUG tests.LoginTest - Navigated to url
+11:15:20.746 [main] DEBUG tests.LoginTest - Page is zoomed out
+11:17:46.175 [main] DEBUG tests.LoginTest - Browser got launched
+11:17:52.149 [main] DEBUG tests.LoginTest - Navigated to url
+11:17:54.299 [main] DEBUG tests.LoginTest - Page is zoomed out
+11:23:10.713 [main] DEBUG tests.LoginTest - Browser got launched
+11:23:16.319 [main] DEBUG tests.LoginTest - Navigated to url
+11:23:17.714 [main] DEBUG tests.LoginTest - Page is zoomed out
+11:31:09.327 [main] DEBUG tests.LoginTest - Browser got launched
+11:31:13.826 [main] DEBUG tests.LoginTest - Navigated to url
+11:31:14.951 [main] DEBUG tests.LoginTest - Page is zoomed out
+11:33:14.004 [main] DEBUG tests.LoginTest - Browser got launched
+11:33:17.948 [main] DEBUG tests.LoginTest - Navigated to url
+11:33:19.219 [main] DEBUG tests.LoginTest - Page is zoomed out
+11:34:28.617 [main] DEBUG tests.LoginTest - Browser got launched
+11:34:32.000 [main] DEBUG tests.LoginTest - Navigated to url
+11:34:33.767 [main] DEBUG tests.LoginTest - Page is zoomed out
+11:36:11.055 [main] DEBUG tests.LoginTest - Browser got launched
+11:36:14.262 [main] DEBUG tests.LoginTest - Navigated to url
+11:36:15.596 [main] DEBUG tests.LoginTest - Page is zoomed out
+11:43:06.958 [main] DEBUG tests.LoginTest - Browser got launched
+11:43:12.276 [main] DEBUG tests.LoginTest - Navigated to url
+11:43:13.400 [main] DEBUG tests.LoginTest - Page is zoomed out
+11:45:46.051 [main] DEBUG tests.LoginTest - Browser got launched
+11:45:50.327 [main] DEBUG tests.LoginTest - Navigated to url
+11:45:51.458 [main] DEBUG tests.LoginTest - Page is zoomed out
+11:47:37.056 [main] DEBUG tests.LoginTest - Browser got launched
+11:47:46.167 [main] DEBUG tests.LoginTest - Navigated to url
+11:47:47.434 [main] DEBUG tests.LoginTest - Page is zoomed out
+11:56:53.738 [main] DEBUG tests.LoginTest - Browser got launched
+11:56:57.014 [main] DEBUG tests.LoginTest - Navigated to url
+11:56:58.151 [main] DEBUG tests.LoginTest - Page is zoomed out
+12:04:26.537 [main] DEBUG tests.LoginTest - Browser got launched
+12:04:29.722 [main] DEBUG tests.LoginTest - Navigated to url
+12:04:30.757 [main] DEBUG tests.LoginTest - Page is zoomed out
+12:13:45.780 [main] DEBUG tests.LoginTest - Browser got launched
+12:13:49.308 [main] DEBUG tests.LoginTest - Navigated to url
+12:13:50.409 [main] DEBUG tests.LoginTest - Page is zoomed out
+12:21:48.563 [main] DEBUG tests.LoginTest - Browser got launched
+12:21:51.757 [main] DEBUG tests.LoginTest - Navigated to url
+12:21:52.922 [main] DEBUG tests.LoginTest - Page is zoomed out
+12:28:18.257 [main] DEBUG tests.LoginTest - Browser got launched
+12:28:21.744 [main] DEBUG tests.LoginTest - Navigated to url
+12:28:22.908 [main] DEBUG tests.LoginTest - Page is zoomed out
+12:31:40.882 [main] DEBUG tests.LoginTest - Browser got launched
+12:31:44.299 [main] DEBUG tests.LoginTest - Navigated to url
+12:31:45.487 [main] DEBUG tests.LoginTest - Page is zoomed out
+12:41:44.889 [main] DEBUG tests.LoginTest - Browser got launched
+12:41:48.389 [main] DEBUG tests.LoginTest - Navigated to url
+12:41:49.518 [main] DEBUG tests.LoginTest - Page is zoomed out
+12:44:26.332 [main] DEBUG tests.LoginTest - Browser got launched
+12:44:29.352 [main] DEBUG tests.LoginTest - Navigated to url
+12:44:30.711 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:11:04.396 [main] DEBUG tests.LoginTest - Browser got launched
+14:11:08.150 [main] DEBUG tests.LoginTest - Navigated to url
+14:11:09.282 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:19:23.796 [main] DEBUG tests.LoginTest - Browser got launched
+14:19:27.229 [main] DEBUG tests.LoginTest - Navigated to url
+14:19:28.598 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:24:06.255 [main] DEBUG tests.LoginTest - Browser got launched
+14:24:16.049 [main] DEBUG tests.LoginTest - Navigated to url
+14:24:17.828 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:27:55.569 [main] DEBUG tests.LoginTest - Browser got launched
+14:27:59.074 [main] DEBUG tests.LoginTest - Navigated to url
+14:28:00.500 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:30:30.824 [main] DEBUG tests.LoginTest - Browser got launched
+14:30:34.622 [main] DEBUG tests.LoginTest - Navigated to url
+14:30:35.808 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:36:43.589 [main] DEBUG tests.LoginTest - Browser got launched
+14:36:46.855 [main] DEBUG tests.LoginTest - Navigated to url
+14:36:47.985 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:43:44.672 [main] DEBUG tests.LoginTest - Browser got launched
+14:43:47.791 [main] DEBUG tests.LoginTest - Navigated to url
+14:43:48.958 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:55:25.768 [main] DEBUG tests.LoginTest - Browser got launched
+14:55:28.957 [main] DEBUG tests.LoginTest - Navigated to url
+14:55:30.189 [main] DEBUG tests.LoginTest - Page is zoomed out
+15:09:59.508 [main] DEBUG tests.LoginTest - Browser got launched
+15:10:05.759 [main] DEBUG tests.LoginTest - Navigated to url
+15:10:09.727 [main] DEBUG tests.LoginTest - Page is zoomed out
+15:19:00.092 [main] DEBUG tests.LoginTest - Browser got launched
+15:19:17.634 [main] DEBUG tests.LoginTest - Navigated to url
+15:19:18.877 [main] DEBUG tests.LoginTest - Page is zoomed out
+15:24:07.666 [main] DEBUG tests.LoginTest - Browser got launched
+15:24:17.140 [main] DEBUG tests.LoginTest - Navigated to url
+15:24:18.696 [main] DEBUG tests.LoginTest - Page is zoomed out
+15:54:10.251 [main] DEBUG tests.LoginTest - Browser got launched
+15:54:18.403 [main] DEBUG tests.LoginTest - Navigated to url

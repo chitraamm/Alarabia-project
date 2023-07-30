@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-30T21:42:26 IST" name="Default suite" finished-at="2023-07-30T21:49:26 IST" duration-ms="419709">
+    <groups>
+    </groups>
+    <test started-at="2023-07-30T21:42:26 IST" name="Default test" finished-at="2023-07-30T21:49:26 IST" duration-ms="419709">
+      <class name="tests.MembersTest">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:tests.MembersTest@19b843ba]" started-at="2023-07-30T21:42:27 IST" name="openapplication" finished-at="2023-07-30T21:43:29 IST" duration-ms="62449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapplication -->
+        <test-method signature="member21()[pri:0, instance:tests.MembersTest@19b843ba]" started-at="2023-07-30T21:43:29 IST" name="member21" finished-at="2023-07-30T21:43:55 IST" duration-ms="26290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- member21 -->
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:tests.MembersTest@19b843ba]" started-at="2023-07-30T21:43:55 IST" name="openapplication" finished-at="2023-07-30T21:44:48 IST" duration-ms="52043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapplication -->
+        <test-method signature="member22()[pri:0, instance:tests.MembersTest@19b843ba]" started-at="2023-07-30T21:44:48 IST" name="member22" finished-at="2023-07-30T21:45:17 IST" duration-ms="29292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- member22 -->
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:tests.MembersTest@19b843ba]" started-at="2023-07-30T21:45:17 IST" name="openapplication" finished-at="2023-07-30T21:46:10 IST" duration-ms="52732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapplication -->
+        <test-method signature="member23()[pri:0, instance:tests.MembersTest@19b843ba]" started-at="2023-07-30T21:46:10 IST" name="member23" finished-at="2023-07-30T21:46:37 IST" duration-ms="27923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- member23 -->
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:tests.MembersTest@19b843ba]" started-at="2023-07-30T21:46:38 IST" name="openapplication" finished-at="2023-07-30T21:47:31 IST" duration-ms="52989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapplication -->
+        <test-method signature="member24()[pri:0, instance:tests.MembersTest@19b843ba]" started-at="2023-07-30T21:47:31 IST" name="member24" finished-at="2023-07-30T21:48:04 IST" duration-ms="33256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- member24 -->
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:tests.MembersTest@19b843ba]" started-at="2023-07-30T21:48:04 IST" name="openapplication" finished-at="2023-07-30T21:48:56 IST" duration-ms="51777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapplication -->
+        <test-method signature="member25()[pri:0, instance:tests.MembersTest@19b843ba]" started-at="2023-07-30T21:48:56 IST" name="member25" finished-at="2023-07-30T21:49:26 IST" duration-ms="30606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- member25 -->
+      </class> <!-- tests.MembersTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

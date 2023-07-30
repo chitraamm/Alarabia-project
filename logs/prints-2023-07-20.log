@@ -1,0 +1,154 @@
+11:13:13.788 [main] DEBUG tests.LoginTest - Browser got launched
+11:13:16.862 [main] DEBUG tests.LoginTest - Navigated to url
+11:13:17.667 [main] DEBUG tests.LoginTest - Page is zoomed out
+11:13:19.350 [main] INFO  tests.LoginTest - ResetPassword got passed
+11:13:19.827 [main] DEBUG tests.LoginTest - Browser got closed
+11:13:23.936 [main] DEBUG tests.LoginTest - Browser got launched
+11:13:26.966 [main] DEBUG tests.LoginTest - Navigated to url
+11:13:27.668 [main] DEBUG tests.LoginTest - Page is zoomed out
+11:13:29.340 [main] INFO  tests.LoginTest - Must Contain One Uppercase, One Lowercase
+11:13:29.702 [main] DEBUG tests.LoginTest - Browser got closed
+11:13:34.407 [main] DEBUG tests.LoginTest - Browser got launched
+11:13:37.832 [main] DEBUG tests.LoginTest - Navigated to url
+11:13:38.391 [main] DEBUG tests.LoginTest - Page is zoomed out
+11:13:39.740 [main] INFO  tests.LoginTest - Must Contain One Uppercase, One Lowercase
+11:13:40.293 [main] DEBUG tests.LoginTest - Browser got closed
+11:13:44.460 [main] DEBUG tests.LoginTest - Browser got launched
+11:13:48.403 [main] DEBUG tests.LoginTest - Navigated to url
+11:13:49.024 [main] DEBUG tests.LoginTest - Page is zoomed out
+11:13:51.420 [main] DEBUG tests.LoginTest - Browser got closed
+11:54:46.102 [main] DEBUG tests.LoginTest - Browser got launched
+11:54:48.745 [main] DEBUG tests.LoginTest - Navigated to url
+11:54:49.863 [main] DEBUG tests.LoginTest - Page is zoomed out
+11:55:01.991 [main] DEBUG tests.LoginTest - Dashboard not get displayed
+11:55:02.079 [main] INFO  tests.LoginTest - Signin1 got passed
+11:55:02.584 [main] DEBUG tests.LoginTest - Browser got closed
+12:14:39.089 [main] DEBUG tests.LoginTest - Browser got launched
+12:14:43.314 [main] DEBUG tests.LoginTest - Navigated to url
+12:14:44.466 [main] DEBUG tests.LoginTest - Page is zoomed out
+12:14:47.540 [main] DEBUG tests.LoginTest - Browser got closed
+12:16:01.322 [main] DEBUG tests.LoginTest - Browser got launched
+12:16:04.733 [main] DEBUG tests.LoginTest - Navigated to url
+12:16:05.883 [main] DEBUG tests.LoginTest - Page is zoomed out
+12:16:18.666 [main] DEBUG tests.LoginTest - Members not get displayed
+12:16:18.760 [main] INFO  tests.LoginTest - Member1 got passed
+12:16:19.204 [main] DEBUG tests.LoginTest - Browser got closed
+12:17:56.803 [main] DEBUG tests.LoginTest - Browser got launched
+12:17:59.817 [main] DEBUG tests.LoginTest - Navigated to url
+12:18:01.245 [main] DEBUG tests.LoginTest - Page is zoomed out
+12:18:15.336 [main] DEBUG tests.LoginTest - Members not get displayed
+12:18:15.440 [main] INFO  tests.LoginTest - Member1 got passed
+12:19:34.383 [main] DEBUG tests.LoginTest - Browser got launched
+12:19:38.654 [main] DEBUG tests.LoginTest - Navigated to url
+12:19:40.330 [main] DEBUG tests.LoginTest - Page is zoomed out
+12:22:03.913 [main] DEBUG tests.LoginTest - Browser got launched
+12:22:08.511 [main] DEBUG tests.LoginTest - Navigated to url
+12:22:09.880 [main] DEBUG tests.LoginTest - Page is zoomed out
+12:22:22.760 [main] DEBUG tests.LoginTest - Members not get displayed
+12:22:23.903 [main] INFO  tests.LoginTest - Member1 got passed
+12:27:17.803 [main] DEBUG tests.LoginTest - Browser got launched
+12:27:20.495 [main] DEBUG tests.LoginTest - Navigated to url
+12:27:21.800 [main] DEBUG tests.LoginTest - Page is zoomed out
+12:27:33.741 [main] DEBUG tests.LoginTest - Members not get displayed
+12:31:41.143 [main] DEBUG tests.LoginTest - Browser got launched
+12:31:44.320 [main] DEBUG tests.LoginTest - Navigated to url
+12:31:45.322 [main] DEBUG tests.LoginTest - Page is zoomed out
+12:31:57.611 [main] DEBUG tests.LoginTest - Dashboard not get displayed
+12:31:57.769 [main] DEBUG tests.LoginTest - Members got displayed
+12:31:59.187 [main] INFO  tests.LoginTest - Member1 got passed
+12:50:16.831 [main] DEBUG tests.LoginTest - Browser got launched
+12:50:19.432 [main] DEBUG tests.LoginTest - Navigated to url
+12:50:20.573 [main] DEBUG tests.LoginTest - Page is zoomed out
+12:50:32.733 [main] DEBUG tests.LoginTest - Members not get displayed
+12:50:36.439 [main] INFO  tests.LoginTest - Member1 got passed
+13:01:10.193 [main] DEBUG tests.LoginTest - Browser got launched
+13:01:14.865 [main] DEBUG tests.LoginTest - Navigated to url
+13:01:16.143 [main] DEBUG tests.LoginTest - Page is zoomed out
+13:01:28.828 [main] DEBUG tests.LoginTest - Members not get displayed
+13:01:31.253 [main] INFO  tests.LoginTest - Member1 got passed
+13:03:48.282 [main] DEBUG tests.LoginTest - Browser got launched
+13:03:50.805 [main] DEBUG tests.LoginTest - Navigated to url
+13:03:52.140 [main] DEBUG tests.LoginTest - Page is zoomed out
+13:04:04.221 [main] DEBUG tests.LoginTest - Members not get displayed
+13:04:10.593 [main] INFO  tests.LoginTest - Member1 got passed
+13:06:53.440 [main] DEBUG tests.LoginTest - Browser got launched
+13:06:56.574 [main] DEBUG tests.LoginTest - Navigated to url
+13:06:57.670 [main] DEBUG tests.LoginTest - Page is zoomed out
+13:07:09.794 [main] DEBUG tests.LoginTest - Members not get displayed
+13:07:12.184 [main] INFO  tests.LoginTest - Member1 got passed
+14:13:38.136 [main] DEBUG tests.LoginTest - Browser got launched
+14:13:42.838 [main] DEBUG tests.LoginTest - Navigated to url
+14:13:44.028 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:13:56.732 [main] DEBUG tests.LoginTest - Members not get displayed
+14:13:58.805 [main] INFO  tests.LoginTest - Member1 got passed
+14:16:54.068 [main] DEBUG tests.LoginTest - Browser got launched
+14:16:56.958 [main] DEBUG tests.LoginTest - Navigated to url
+14:16:58.118 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:17:10.223 [main] DEBUG tests.LoginTest - Members not get displayed
+14:17:11.251 [main] INFO  tests.LoginTest - Member1 got passed
+14:20:05.030 [main] DEBUG tests.LoginTest - Browser got launched
+14:20:09.543 [main] DEBUG tests.LoginTest - Navigated to url
+14:20:10.775 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:20:22.918 [main] DEBUG tests.LoginTest - Members not get displayed
+14:20:24.155 [main] INFO  tests.LoginTest - Member1 got passed
+14:21:37.394 [main] DEBUG tests.LoginTest - Browser got launched
+14:21:42.161 [main] DEBUG tests.LoginTest - Navigated to url
+14:21:43.983 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:21:56.733 [main] DEBUG tests.LoginTest - Members not get displayed
+14:21:59.062 [main] INFO  tests.LoginTest - Member1 got passed
+14:30:43.726 [main] DEBUG tests.LoginTest - Browser got launched
+14:30:46.344 [main] DEBUG tests.LoginTest - Navigated to url
+14:30:47.771 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:31:11.720 [main] DEBUG tests.LoginTest - Members got displayed
+14:31:12.054 [main] INFO  tests.LoginTest - Member2 got passed
+14:38:40.368 [main] DEBUG tests.LoginTest - Browser got launched
+14:38:43.140 [main] DEBUG tests.LoginTest - Navigated to url
+14:38:44.270 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:38:58.404 [main] DEBUG tests.LoginTest - Members got displayed
+14:38:58.622 [main] INFO  tests.LoginTest - Member2 got passed
+14:43:48.358 [main] DEBUG tests.LoginTest - Browser got launched
+14:43:52.838 [main] DEBUG tests.LoginTest - Navigated to url
+14:43:53.854 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:44:12.412 [main] DEBUG tests.LoginTest - Members got displayed
+14:44:12.546 [main] INFO  tests.LoginTest - Member2 got passed
+14:55:03.651 [main] DEBUG tests.LoginTest - Browser got launched
+14:55:08.605 [main] DEBUG tests.LoginTest - Navigated to url
+14:55:09.997 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:58:02.560 [main] DEBUG tests.LoginTest - Browser got launched
+14:58:08.481 [main] DEBUG tests.LoginTest - Navigated to url
+14:58:09.918 [main] DEBUG tests.LoginTest - Page is zoomed out
+15:02:15.921 [main] DEBUG tests.LoginTest - Browser got launched
+15:02:18.546 [main] DEBUG tests.LoginTest - Navigated to url
+15:02:19.670 [main] DEBUG tests.LoginTest - Page is zoomed out
+15:04:20.397 [main] DEBUG tests.LoginTest - Browser got launched
+15:04:23.872 [main] DEBUG tests.LoginTest - Navigated to url
+15:04:25.561 [main] DEBUG tests.LoginTest - Page is zoomed out
+15:08:51.293 [main] DEBUG tests.LoginTest - Browser got launched
+15:08:54.225 [main] DEBUG tests.LoginTest - Navigated to url
+15:08:55.355 [main] DEBUG tests.LoginTest - Page is zoomed out
+15:36:01.680 [main] DEBUG tests.LoginTest - Browser got launched
+15:36:06.899 [main] DEBUG tests.LoginTest - Navigated to url
+15:36:08.150 [main] DEBUG tests.LoginTest - Page is zoomed out
+15:37:59.133 [main] DEBUG tests.LoginTest - Browser got launched
+15:37:59.486 [main] DEBUG tests.LoginTest - Navigated to url
+15:38:10.082 [main] DEBUG tests.LoginTest - Page is zoomed out
+15:51:55.156 [main] DEBUG tests.LoginTest - Browser got launched
+15:51:59.787 [main] DEBUG tests.LoginTest - Navigated to url
+15:52:02.783 [main] DEBUG tests.LoginTest - Page is zoomed out
+15:52:18.236 [main] DEBUG tests.LoginTest - Members got displayed
+15:52:18.338 [main] INFO  tests.LoginTest - Member2 got passed
+15:54:48.523 [main] DEBUG tests.LoginTest - Browser got launched
+15:54:51.208 [main] DEBUG tests.LoginTest - Navigated to url
+15:54:52.312 [main] DEBUG tests.LoginTest - Page is zoomed out
+15:55:11.556 [main] DEBUG tests.LoginTest - Members got displayed
+15:55:11.746 [main] INFO  tests.LoginTest - Member2 got passed
+16:02:11.394 [main] DEBUG tests.LoginTest - Browser got launched
+16:02:14.563 [main] DEBUG tests.LoginTest - Navigated to url
+16:02:15.901 [main] DEBUG tests.LoginTest - Page is zoomed out
+16:02:35.121 [main] INFO  tests.LoginTest - Member7 got passed
+16:41:24.150 [main] DEBUG tests.LoginTest - Browser got launched
+16:41:28.299 [main] DEBUG tests.LoginTest - Navigated to url
+16:41:29.539 [main] DEBUG tests.LoginTest - Page is zoomed out
+16:41:48.479 [main] INFO  tests.LoginTest - Member8 got passed
+16:44:14.221 [main] DEBUG tests.LoginTest - Browser got launched
+16:44:17.647 [main] DEBUG tests.LoginTest - Navigated to url

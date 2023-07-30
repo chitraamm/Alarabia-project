@@ -1,0 +1,148 @@
+14:34:40.200 [main] DEBUG tests.LoginTest - Browser got closed
+14:34:44.843 [main] DEBUG tests.LoginTest - Browser got launched
+14:34:47.988 [main] DEBUG tests.LoginTest - Navigated to url
+14:34:49.093 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:34:50.266 [main] DEBUG tests.LoginTest - Email addressed got entered
+14:34:50.755 [main] DEBUG tests.LoginTest - Password got entered
+14:34:51.173 [main] INFO  tests.LoginTest - Must Contain One Uppercase, One Lowercase
+14:34:51.593 [main] DEBUG tests.LoginTest - Browser got closed
+14:34:56.169 [main] DEBUG tests.LoginTest - Browser got launched
+14:34:59.183 [main] DEBUG tests.LoginTest - Navigated to url
+14:35:00.126 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:35:01.293 [main] DEBUG tests.LoginTest - Email addressed got entered
+14:35:02.053 [main] DEBUG tests.LoginTest - Password got entered
+14:35:02.508 [main] INFO  tests.LoginTest - Invalid email address or phone number
+14:35:02.894 [main] DEBUG tests.LoginTest - Browser got closed
+14:35:07.296 [main] DEBUG tests.LoginTest - Browser got launched
+14:35:10.360 [main] DEBUG tests.LoginTest - Navigated to url
+14:35:11.292 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:35:13.418 [main] DEBUG tests.LoginTest - LoginPage got displayed
+14:35:13.509 [main] INFO  tests.LoginTest - ForgotPassword1 got passed
+14:35:13.871 [main] DEBUG tests.LoginTest - Browser got closed
+14:35:18.371 [main] DEBUG tests.LoginTest - Browser got launched
+14:35:21.429 [main] DEBUG tests.LoginTest - Navigated to url
+14:35:22.354 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:35:24.441 [main] INFO  tests.LoginTest - loginpage got displayed
+14:35:24.831 [main] DEBUG tests.LoginTest - Browser got closed
+14:35:29.124 [main] DEBUG tests.LoginTest - Browser got launched
+14:35:32.778 [main] DEBUG tests.LoginTest - Navigated to url
+14:35:33.687 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:35:36.215 [main] INFO  tests.LoginTest - User not found
+14:35:36.587 [main] DEBUG tests.LoginTest - Browser got closed
+14:35:41.247 [main] DEBUG tests.LoginTest - Browser got launched
+14:35:44.311 [main] DEBUG tests.LoginTest - Navigated to url
+14:35:45.264 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:35:47.239 [main] INFO  tests.LoginTest - Invalid email address or phone number
+14:35:47.669 [main] DEBUG tests.LoginTest - Browser got closed
+14:35:52.188 [main] DEBUG tests.LoginTest - Browser got launched
+14:35:55.244 [main] DEBUG tests.LoginTest - Navigated to url
+14:35:56.072 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:35:57.922 [main] INFO  tests.LoginTest - Invalid email address or phone number
+14:35:58.268 [main] DEBUG tests.LoginTest - Browser got closed
+14:36:02.805 [main] DEBUG tests.LoginTest - Browser got launched
+14:36:07.279 [main] DEBUG tests.LoginTest - Navigated to url
+14:36:08.026 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:36:09.871 [main] INFO  tests.LoginTest - Invalid email address or phone number
+14:36:10.242 [main] DEBUG tests.LoginTest - Browser got closed
+14:36:14.689 [main] DEBUG tests.LoginTest - Browser got launched
+14:36:17.989 [main] DEBUG tests.LoginTest - Navigated to url
+14:36:18.715 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:36:20.704 [main] INFO  tests.LoginTest - Invalid email address or phone number
+14:36:21.065 [main] DEBUG tests.LoginTest - Browser got closed
+14:36:25.496 [main] DEBUG tests.LoginTest - Browser got launched
+14:36:29.013 [main] DEBUG tests.LoginTest - Navigated to url
+14:36:29.910 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:36:31.858 [main] INFO  tests.LoginTest - Invalid email address or phone number
+14:36:32.218 [main] DEBUG tests.LoginTest - Browser got closed
+14:43:42.543 [main] DEBUG tests.LoginTest - Browser got launched
+14:43:45.452 [main] DEBUG tests.LoginTest - Navigated to url
+14:43:46.849 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:43:48.040 [main] DEBUG tests.LoginTest - Email addressed got entered
+14:43:48.793 [main] DEBUG tests.LoginTest - Password got entered
+14:43:48.899 [main] INFO  tests.LoginTest - Invalid email address or phone number
+14:46:15.621 [main] DEBUG tests.LoginTest - Browser got launched
+14:46:18.551 [main] DEBUG tests.LoginTest - Navigated to url
+14:46:19.846 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:46:21.029 [main] DEBUG tests.LoginTest - Email addressed got entered
+14:46:21.783 [main] DEBUG tests.LoginTest - Password got entered
+14:46:22.166 [main] INFO  tests.LoginTest - Invalid email address or phone number
+14:49:45.523 [main] DEBUG tests.LoginTest - Browser got launched
+14:49:48.635 [main] DEBUG tests.LoginTest - Navigated to url
+14:49:49.948 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:50:02.364 [main] DEBUG tests.LoginTest - Dashboard not get displayed
+14:50:04.879 [main] INFO  tests.LoginTest - Signin1 got passed
+14:50:05.478 [main] DEBUG tests.LoginTest - Browser got closed
+14:50:11.306 [main] DEBUG tests.LoginTest - Browser got launched
+14:50:15.175 [main] DEBUG tests.LoginTest - Navigated to url
+14:50:16.070 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:50:17.495 [main] DEBUG tests.LoginTest - Email addressed got entered
+14:50:18.320 [main] DEBUG tests.LoginTest - Password got entered
+14:50:18.432 [main] INFO  tests.LoginTest - Invalid email address or phone number
+14:50:18.916 [main] DEBUG tests.LoginTest - Browser got closed
+14:50:24.225 [main] DEBUG tests.LoginTest - Browser got launched
+14:50:28.131 [main] DEBUG tests.LoginTest - Navigated to url
+14:50:29.075 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:50:30.342 [main] DEBUG tests.LoginTest - Email addressed got entered
+14:50:31.101 [main] DEBUG tests.LoginTest - Password got entered
+14:50:31.210 [main] INFO  tests.LoginTest - Invalid email address or phone number
+14:50:31.597 [main] DEBUG tests.LoginTest - Browser got closed
+14:50:36.842 [main] DEBUG tests.LoginTest - Browser got launched
+14:50:40.152 [main] DEBUG tests.LoginTest - Navigated to url
+14:50:41.171 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:50:42.658 [main] DEBUG tests.LoginTest - Email addressed got entered
+14:50:43.398 [main] DEBUG tests.LoginTest - Password got entered
+14:50:43.898 [main] INFO  tests.LoginTest - Invalid Cerdential
+14:50:44.302 [main] DEBUG tests.LoginTest - Browser got closed
+14:50:49.182 [main] DEBUG tests.LoginTest - Browser got launched
+14:50:52.319 [main] DEBUG tests.LoginTest - Navigated to url
+14:50:53.339 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:50:54.503 [main] DEBUG tests.LoginTest - Email addressed got entered
+14:50:55.207 [main] DEBUG tests.LoginTest - Password got entered
+14:50:55.685 [main] INFO  tests.LoginTest - Invalid Credential
+14:50:56.158 [main] DEBUG tests.LoginTest - Browser got closed
+14:51:01.018 [main] DEBUG tests.LoginTest - Browser got launched
+14:51:05.768 [main] DEBUG tests.LoginTest - Navigated to url
+14:51:06.545 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:51:07.977 [main] DEBUG tests.LoginTest - Email addressed got entered
+14:51:08.785 [main] DEBUG tests.LoginTest - Password got entered
+14:51:09.012 [main] INFO  tests.LoginTest - Invalid email address or phone number
+14:51:09.397 [main] DEBUG tests.LoginTest - Browser got closed
+14:51:14.237 [main] DEBUG tests.LoginTest - Browser got launched
+14:51:17.321 [main] DEBUG tests.LoginTest - Navigated to url
+14:51:18.133 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:51:19.336 [main] DEBUG tests.LoginTest - Email addressed got entered
+14:51:19.947 [main] DEBUG tests.LoginTest - Password got entered
+14:51:20.372 [main] INFO  tests.LoginTest - Invalid email address or phone number
+14:51:20.866 [main] DEBUG tests.LoginTest - Browser got closed
+14:51:25.743 [main] DEBUG tests.LoginTest - Browser got launched
+14:51:28.871 [main] DEBUG tests.LoginTest - Navigated to url
+14:51:29.763 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:51:30.981 [main] DEBUG tests.LoginTest - Email addressed got entered
+14:51:31.521 [main] DEBUG tests.LoginTest - Password got entered
+14:51:33.058 [main] INFO  tests.LoginTest - Must Contain One Uppercase, One Lowercase
+14:51:33.461 [main] DEBUG tests.LoginTest - Browser got closed
+14:51:38.307 [main] DEBUG tests.LoginTest - Browser got launched
+14:51:41.529 [main] DEBUG tests.LoginTest - Navigated to url
+14:51:42.307 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:51:43.536 [main] DEBUG tests.LoginTest - Email addressed got entered
+14:51:44.117 [main] DEBUG tests.LoginTest - Password got entered
+14:51:44.553 [main] INFO  tests.LoginTest - Must Contain One Uppercase, One Lowercase
+14:51:44.966 [main] DEBUG tests.LoginTest - Browser got closed
+14:51:49.786 [main] DEBUG tests.LoginTest - Browser got launched
+14:51:52.934 [main] DEBUG tests.LoginTest - Navigated to url
+14:51:53.632 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:51:54.830 [main] DEBUG tests.LoginTest - Email addressed got entered
+14:51:55.505 [main] DEBUG tests.LoginTest - Password got entered
+14:51:55.965 [main] INFO  tests.LoginTest - Must Contain One Uppercase, One Lowercase
+14:51:56.352 [main] DEBUG tests.LoginTest - Browser got closed
+14:52:01.090 [main] DEBUG tests.LoginTest - Browser got launched
+14:52:09.736 [main] DEBUG tests.LoginTest - Navigated to url
+14:52:10.634 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:52:11.861 [main] DEBUG tests.LoginTest - Email addressed got entered
+14:52:12.325 [main] DEBUG tests.LoginTest - Password got entered
+14:52:12.720 [main] INFO  tests.LoginTest - Must Contain One Uppercase, One Lowercase
+14:52:13.101 [main] DEBUG tests.LoginTest - Browser got closed
+14:52:17.869 [main] DEBUG tests.LoginTest - Browser got launched
+14:52:21.011 [main] DEBUG tests.LoginTest - Navigated to url
+14:52:21.881 [main] DEBUG tests.LoginTest - Page is zoomed out
+14:52:23.083 [main] DEBUG tests.LoginTest - Email addressed got entered
