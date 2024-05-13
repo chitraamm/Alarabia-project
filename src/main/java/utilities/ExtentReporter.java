@@ -33,4 +33,8 @@ public class ExtentReporter extends Base {
 		
 	}
 
+	public static void main(String[] args) {
+		utilities
+	}
+
 }
